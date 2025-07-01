@@ -3,5 +3,8 @@ PKGSEC=admin
 PKGDES="Incus Web interface"
 BUILDDEP="nodejs"
 
+<<<<<<< HEAD
 ABSPLITDBG=0
+=======
+>>>>>>> refs/rewritten/incus-ui-canonical-0-15-4-build-fix
 ABHOST="noarch"
