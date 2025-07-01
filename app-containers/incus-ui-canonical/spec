@@ -1,0 +1,4 @@
+VER=0.15.4
+SRCS="tbl::https://github.com/zabbly/incus-ui-canonical/archive/refs/tags/incus-$VER.tar.gz"
+CHKSUMS="sha256::b7c06aa7ddf808a98d5044ebbb19144b67147c0d02a1c3270a2361302fa1f2e3"
+CHKUPDATE="anitya::id=378972"
